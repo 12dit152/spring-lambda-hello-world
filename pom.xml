@@ -27,7 +27,7 @@
         <lombok.version>1.18.46</lombok.version>
         <aws-serverless-java-container-springboot4.version>3.0.2</aws-serverless-java-container-springboot4.version>
         <aws-lambda-java-core.version>1.4.0</aws-lambda-java-core.version>
-        <spring-cloud-aws.version>4.0.2</spring-cloud-aws.version>
+        <spring-cloud-aws.version>4.2.0</spring-cloud-aws.version>
         <logback.version>1.5.37</logback.version>
         <logstash-logback-encoder.version>9.0</logstash-logback-encoder.version>
     </properties>
